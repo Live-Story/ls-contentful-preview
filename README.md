@@ -3,7 +3,7 @@
 Render a Live Story Contentful entry
 
 ## Settings
-On deployment stage, set your Contentful preview access token as environment variable `REACT_APP_ACCESS_TOKEN` on `.env.production` file
+On deployment stage, set your Contentful preview access token as environment variable `REACT_APP_ACCESS_TOKEN`
 
 ## Usage
 
